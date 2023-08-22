@@ -68,10 +68,15 @@ public class NestedMysteryCode {
 import java.util.Arrays
 ```
 ```java
-System.out.println(Arrays.toString(generateArray1to100(8))); // [7, 51, 34, 35, 56, 5, 60, 31]
-System.out.println(Arrays.toString(generateArray1to100(5))); // [98, 53, 9, 80, 85]
-System.out.println(Arrays.toString(generateArray1to100(12))); // [14, 76, 92, 33, 19, 93, 59, 26, 35, 14, 87, 1]
+System.out.println(Arrays.toString(generateArray1to100(8)));
+System.out.println(Arrays.toString(generateArray1to100(5)));
+System.out.println(Arrays.toString(generateArray1to100(12)));
 ```
 - Problem 4: Using the random number generator from Problem 3, print out the smallest even and odd number, and the largest even and odd number.
     - This problem may be a bit tricky. It is different from a standard find the smallest/largest problem. But a hint that may help is that the array from problem 3 is always numbers from 1 to 100.
     - Think about edge cases! If you aren't sure about it, just ask.
+```java
+int[] array = generateArray1to100(20);
+System.out.println(Arrays.toString(array));
+System.out.println(minMaxOddEven(array));
+```
