@@ -91,3 +91,9 @@ int[] array = generateArray1to100(20);
 System.out.println(Arrays.toString(array));
 minMaxOddEven(array);
 ```
+```
+minEven: 8
+maxEven: 96
+minOdd: 13
+maxOdd: 95
+```
