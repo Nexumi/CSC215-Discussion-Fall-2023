@@ -67,6 +67,7 @@ public class NestedMysteryCode {
 ```java
 countDown(10, 5); // 10, 9, 8, 7, 6, 5
 countDown(12, 19); // 12, 13, 14, 15, 16, 17, 18, 19
+countDown(1, 1); // 1
 ```
 - Problem 4: Create a method that takes in an integer and generates an integer array of that size, filled with random numbers from 1 to 100 (inclusive)
 ```java
