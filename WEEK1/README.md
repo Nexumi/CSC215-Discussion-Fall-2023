@@ -84,5 +84,5 @@ System.out.println(Arrays.toString(generateArray1to100(12)));
 ```java
 int[] array = generateArray1to100(20);
 System.out.println(Arrays.toString(array));
-System.out.println(minMaxOddEven(array));
+minMaxOddEven(array);
 ```
