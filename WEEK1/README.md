@@ -5,11 +5,13 @@
 For this week, you will be tested on materials that you should have learned in CSC 101. I understand that you might not have gotten to cover everything from CSC 101, so do the best you can and get as far as you can.
 
 - Problem 1: Create a method that takes 2 integers, and returns the sum of the absolute value of both integers.
-  - absoluteAdd(-5, -7) → 12
-  - absoluteAdd(6, -2) → 8
-  - absoluteAdd(-3, 1) → 4
-  - absoluteAdd(9, 4) → 13
-- Problem 2: What will get printed onto the console?
+```java
+System.out.println(absoluteAdd(-5, -7)); // 12
+System.out.println(absoluteAdd(6, -2)); // 8
+System.out.println(absoluteAdd(-3, 1)); // 4
+System.out.println(absoluteAdd(9, 4)); // 13
+```
+- Problem 2: What will get printed onto the console? No IDE!
 ```java
 public class NestedMysteryCode {
     public static void main(String[] args) {
@@ -62,9 +64,14 @@ public class NestedMysteryCode {
 }
 ```
 - Problem 3: Create a method that takes in an integer and generates an integer array of that size, filled with random numbers from 1 to 100 (inclusive)
-    - generateArray1to100(8) → [7, 51, 34, 35, 56, 5, 60, 31]
-    - generateArray1to100(5) → [98, 53, 9, 80, 85]
-    - generateArray1to100(12) → [14, 76, 92, 33, 19, 93, 59, 26, 35, 14, 87, 1]
+```java
+import java.util.Arrays
+```
+```java
+System.out.println(Arrays.toString(generateArray1to100(8))); // [7, 51, 34, 35, 56, 5, 60, 31]
+System.out.println(Arrays.toString(generateArray1to100(5))); // [98, 53, 9, 80, 85]
+System.out.println(Arrays.toString(generateArray1to100(12))); // [14, 76, 92, 33, 19, 93, 59, 26, 35, 14, 87, 1]
+```
 - Problem 4: Using the random number generator from Problem 3, print out the smallest even and odd number, and the largest even and odd number.
     - This problem may be a bit tricky. It is different from a standard find the smallest/largest problem. But a hint that may help is that the array from problem 3 is always numbers from 1 to 100.
     - Think about edge cases! If you aren't sure about it, just ask.
