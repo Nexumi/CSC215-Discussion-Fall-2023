@@ -1,0 +1,2 @@
+- [WEEK2](https://web.jpkit.us/DLS_Fall23/WEEK2/)
+	- [WEEK2 solutions](https://web.jpkit.us/DLS_Fall23/WEEK2/solutions/)
