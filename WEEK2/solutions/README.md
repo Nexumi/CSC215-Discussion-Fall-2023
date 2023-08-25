@@ -1,3 +1,3 @@
-> CSC215: Discussion Week 2
+> Week 2 Practice Problems
 
 No solutions yet
