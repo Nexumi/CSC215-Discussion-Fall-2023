@@ -1,4 +1,4 @@
-> Week 3 Practice Problems
+> Week 3 Practice Problems (Sample Solutions)
 
 - Problem 1: Create a method that takes in an integer and generates an integer array of that size, filled with random numbers from 1 to 100 (inclusive)
 
