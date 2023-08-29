@@ -1,2 +1,4 @@
 - [WEEK2](https://csc215.jpkit.us/WEEK2/)
 	- [WEEK2 solutions](https://csc215.jpkit.us/WEEK2/solutions/)
+- [WEEK3](https://csc215.jpkit.us/WEEK3/)
+	- [WEEK3 solutions](https://csc215.jpkit.us/WEEK3/solutions/)
