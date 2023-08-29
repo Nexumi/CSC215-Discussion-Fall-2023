@@ -70,28 +70,3 @@ countingByOne(10, 5); // 10, 9, 8, 7, 6, 5
 countingByOne(12, 19); // 12, 13, 14, 15, 16, 17, 18, 19
 countingByOne(1, 1); // 1
 ```
-- Problem 4: Create a method that takes in an integer and generates an integer array of that size, filled with random numbers from 1 to 100 (inclusive)
-
-```java
-import java.util.Arrays
-```
-```java
-System.out.println(Arrays.toString(generateArray1to100(8)));
-System.out.println(Arrays.toString(generateArray1to100(5)));
-System.out.println(Arrays.toString(generateArray1to100(12)));
-```
-- Problem 5: Using the random number generator from Problem 3, print out the smallest even and odd number, and the largest even and odd number.
-    - This problem may be a bit tricky. It is different from a standard find the smallest/largest problem. But a hint that may help is that the array from problem 3 is always numbers from 1 to 100.
-    - Think about edge cases! If you aren't sure about it, just ask.
-
-```java
-int[] array = generateArray1to100(20);
-System.out.println(Arrays.toString(array));
-minMaxOddEven(array);
-```
-```
-minEven: 8
-maxEven: 96
-minOdd: 13
-maxOdd: 95
-```
