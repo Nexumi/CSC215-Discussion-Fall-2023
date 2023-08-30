@@ -1,3 +1,4 @@
+- [WEEK1 [Topic: Guidelines & Policies]](https://csc215.jpkit.us/WEEK1/)
 - [WEEK2 [Topic: CSC101]](https://csc215.jpkit.us/WEEK2/)
 	- [WEEK2 solutions](https://csc215.jpkit.us/WEEK2/solutions/)
 - [WEEK3 [Topic: Arrays]](https://csc215.jpkit.us/WEEK3/)
