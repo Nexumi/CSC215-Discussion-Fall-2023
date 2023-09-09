@@ -3,7 +3,7 @@
 <hr>
 
 - Problem 1: Create a method that takes in an array and squares each element in the array.
-- Pre-problem 2: What will the average method return? No IDE, calculate by hand before attempting Problem 2.
+- Pre-problem 2: What will the average method return? No IDE, calculate by hand (or with a calculator) before attempting Problem 2.
 - Problem 2: Create a method that takes the array from Problem 1, and calculate the average.
 
 ```java
