@@ -36,3 +36,6 @@ public static int average(int[] array) {
     return sum / array.length;
 }
 ```
+```
+Problem 2: 1397
+```
