@@ -3,3 +3,5 @@
 	- [WEEK2 solutions](https://csc215.jpkit.us/WEEK2/solutions/)
 - [WEEK3 [Topic: Arrays]](https://csc215.jpkit.us/WEEK3/)
 	- [WEEK3 solutions](https://csc215.jpkit.us/WEEK3/solutions/)
+- [WEEK4 [Topic: Arrays]](https://csc215.jpkit.us/WEEK4/)
+	- [WEEK4 solutions](https://csc215.jpkit.us/WEEK4/solutions/)
