@@ -1,4 +1,4 @@
-> Week 4 Practice Problems (Sample Solutions)<br>[Topic: Arrays]
+> Week 4 Practice Problems (Sample Solutions)<br>[Topic: Arrays && Loops]
 
 <hr>
 
