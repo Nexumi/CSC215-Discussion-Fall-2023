@@ -18,11 +18,12 @@ System.out.println(Arrays.toString(array));
 
 // Problem 2 Test Case
 System.out.println(average(array));
+// Problem 2: 1397
 ```
 ```java
 public static void squareUp(int[] array) {
     for(int i = 0; i < array.length; i++) {
-        array[i] = array[i] * array[i]; // Math.pow(array[i], 2);
+        array[i] = array[i] * array[i]; // (int) Math.pow(array[i], 2);
     }
 }
 
@@ -35,7 +36,4 @@ public static int average(int[] array) {
 
     return sum / array.length;
 }
-```
-```
-Problem 2: 1397
 ```
