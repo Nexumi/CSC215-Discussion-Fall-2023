@@ -5,3 +5,5 @@
 	- [WEEK3 solutions](https://csc215.jpkit.us/WEEK3/solutions/)
 - [WEEK4 [Topic: Arrays && Loops]](https://csc215.jpkit.us/WEEK4/)
 	- [WEEK4 solutions](https://csc215.jpkit.us/WEEK4/solutions/)
+- [WEEK5 [Topic: 101 Review]](https://csc215.jpkit.us/WEEK5/)
+	- [WEEK5 solutions](https://csc215.jpkit.us/WEEK5/solutions/)
