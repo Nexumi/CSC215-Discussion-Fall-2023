@@ -63,7 +63,8 @@ switch (day) {
 
 - Problem 2: Create a method that repeatedly asks the user for an integer until either 10 numbers are entered or a negative number is entered. Sum up all the numbers entered by the user, excluding the negative number.
 	- Write 3 versions, using a different type of loop each time.
-		- Loops: While | Do-While | For
+		- Loops: While \| Do-While \| For
+
 ```
 Enter a number: 6
 Enter a number: 9
