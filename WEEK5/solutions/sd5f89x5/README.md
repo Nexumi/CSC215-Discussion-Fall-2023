@@ -11,7 +11,7 @@ Enter a day of the week (0 - 6): 3
 3 is Wednesday
 Enter a day of the week (0 - 6): 6
 6 is Saturday
-Enter a day of the week (0 - 7): 15
+Enter a day of the week (0 - 6): 15
 15 is an invalid day of the week
 ```
 ```java
