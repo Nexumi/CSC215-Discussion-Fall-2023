@@ -8,4 +8,6 @@
 - [WEEK5 [Topic: 101 Review]](https://csc215.jpkit.us/WEEK5/)
 	- [WEEK5 solutions](https://csc215.jpkit.us/WEEK5/solutions/)
 - [WEEK6 [Topic: Arrays]](https://csc215.jpkit.us/WEEK6/)
-	- [WEEK6 solutions](https://csc215.jpkit.us/WEEK5/solutions/)
+	- [WEEK6 solutions](https://csc215.jpkit.us/WEEK6/solutions/)
+- [WEEK7 [Topic: Arrays]](https://csc215.jpkit.us/WEEK7/)
+	- [WEEK7 solutions](https://csc215.jpkit.us/WEEK7/solutions/)
