@@ -32,7 +32,7 @@ public class Main {
     }
 
     public static void finalMethod(int x, String str, double[] arr) {
-        System.out.printf("%d\t%s\t%s", x, str, Arrays.toString(arr));
+        System.out.printf("%d     %s     %s", x, str, Arrays.toString(arr));
     }
 
     public static void main(String[] args) {
