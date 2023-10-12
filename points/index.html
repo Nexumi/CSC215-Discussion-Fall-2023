@@ -30,7 +30,7 @@
 						if (["1", "2", "3", "4", "5"].includes(info[5])) {
 							let name = `${info[6]}`;
 							if (name) {
-								students.set(name, (students.get(name) || 0) + Number(info[5]));
+								students.set(name, (students.get(name) || 0) + Number(info[5]) + 3);
 							}
 						}
 					}
