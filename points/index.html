@@ -31,6 +31,7 @@
 
 						if (["1", "2", "3", "4", "5"].includes(info[5])) {
 							let name = `${info[6]}`;
+							name = name.charAt(0).toUpperCase() + name.substr(1).toLowerCase();
 							if (name) {
 								students.set(name, (students.get(name) || 0) + Number(info[5]) + 3);
 							}
