@@ -15,3 +15,5 @@
 	- [WEEK8 solutions](https://csc215.jpkit.us/WEEK8/solutions/)
 - [WEEK9 [Topic: Objects and Classes]](https://csc215.jpkit.us/WEEK9/)
 	- [WEEK9 solutions](https://csc215.jpkit.us/WEEK9/solutions/)
+- [WEEK10 [Topic: IS-A]](https://csc215.jpkit.us/WEEK10/)
+	- [WEEK10 solutions](https://csc215.jpkit.us/WEEK10/solutions/)
