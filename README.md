@@ -17,3 +17,5 @@
 	- [WEEK9 solutions](https://csc215.jpkit.us/WEEK9/solutions/)
 - [WEEK10 [Topic: IS-A]](https://csc215.jpkit.us/WEEK10/)
 	- [WEEK10 solutions](https://csc215.jpkit.us/WEEK10/solutions/)
+- [WEEK11 [Topic: HAS-A]](https://csc215.jpkit.us/WEEK11/)
+	- [WEEK11 solutions](https://csc215.jpkit.us/WEEK11/solutions/)
