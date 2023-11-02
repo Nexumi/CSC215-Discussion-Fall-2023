@@ -1,4 +1,4 @@
-> Week 10 Practice Problems (Sample Solutions)<br>[Topic: Objects and Classes]
+> Week 10 Practice Problems (Sample Solutions)<br>[Topic: IS-A]
 
 <hr>
 
